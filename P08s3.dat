@@ -1,0 +1,25 @@
+Python 2.7.12 (default, Dec  4 2017, 14:50:18) 
+[GCC 5.4.0 20160609] on linux2
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+================= RESTART: /home/kaspars/Documents/P08s3.py =================
+Pēc 1 sekundēm bumba būs 15.095 metri virs zemes.
+Pēc 2 sekundēm bumba būs 20.38 metri virs zemes.
+Pēc 3 sekundēm bumba būs 15.855 metri virs zemes.
+Pēc 4 sekundēm bumba būs 1.52 metri virs zemes.
+Pēc 5 sekundēm bumba būs -22.625 metri virs zemes.
+Pēc 6 sekundēm bumba būs -56.58 metri virs zemes.
+Pēc 7 sekundēm bumba būs -100.345 metri virs zemes.
+Pēc 8 sekundēm bumba būs -153.92 metri virs zemes.
+Pēc 9 sekundēm bumba būs -217.305 metri virs zemes.
+Pēc 10 sekundēm bumba būs -290.5 metri virs zemes.
+Pēc 11 sekundēm bumba būs -373.505 metri virs zemes.
+Pēc 12 sekundēm bumba būs -466.32 metri virs zemes.
+Pēc 13 sekundēm bumba būs -568.945 metri virs zemes.
+Pēc 14 sekundēm bumba būs -681.38 metri virs zemes.
+Pēc 15 sekundēm bumba būs -803.625 metri virs zemes.
+Pēc 16 sekundēm bumba būs -935.68 metri virs zemes.
+Pēc 17 sekundēm bumba būs -1077.545 metri virs zemes.
+Pēc 18 sekundēm bumba būs -1229.22 metri virs zemes.
+Pēc 19 sekundēm bumba būs -1390.705 metri virs zemes.
+>>>
